@@ -1,5 +1,12 @@
 # Changelog
 
+## [16.1.0](https://github.com/googleapis/google-api-nodejs-client/compare/datafusion-v16.0.0...datafusion-v16.1.0) (2025-11-20)
+
+
+### Features
+
+* **datafusion:** update the API ([2eb8b27](https://github.com/googleapis/google-api-nodejs-client/commit/2eb8b278d0356f804ca0faf97e339dc6d4692391))
+
 ## [16.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/datafusion-v15.0.0...datafusion-v16.0.0) (2025-10-15)
 
 
